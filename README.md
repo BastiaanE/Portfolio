@@ -1,2 +1,4 @@
 # Portfolio
-Resume
+## Resume
+
+### Bio 
