@@ -36,4 +36,25 @@ Work experience
 
 I formally started my potential career at Star Nissan Vereeninging as an F and I assistant, where I help work on the closing and structuring of car deals in 2019. At the start of 2020 I was employed by atm solutions as a reconciliations clerk in the treasury department where I was responsible for maintaining the floats of the company with all clients as well as working closely with Security providers like G4s and Fidelity. At the end of 2021 I was promoted into my current role as claims specialist, where I deal with all the claims that may arise from day-to-day activities regarding the Atms and ensuring that all atm are in balance any differences are accounted for banks like ABSA. 
 
-Some of the projects i worked on include 
+Some of the projects I worked on include 
+
+ 
+EDA analysis on all the weapons found in the popular online multilayer shooter namely PUPG  
+This report will Analize the different guns find and make recommendations on, which weapon to use so that the player is the most effective and during the match. This report provides all the stats and classes so that the player can plan an effective strategy 
+
+https://github.com/BastiaanE/PUBG_data
+
+Neural network  
+Basic form of Natural Language Processing (NLP) using Sentiment Analysis by using different neural networks in Keras to try and classify a book review as eitherpositive or negative, and report on which network type worked better. 
+For example, consider the review, "This book is not very good.'' This text ends with 
+the words "very good" which indicates a very positive sentiment, but it is negated 
+because it is preceded by the word "not", so the text should be classified as having 
+a negative sentiment. The neural network can recognize and classify the review correctly 
+
+https://github.com/BastiaanE/Task-20-capstone-3
+
+PCA on the us unrest
+explore the differences between various crimes commited in the USA using
+unsupervised learning methods such as Principal Component Analysis (PCA) to analize the data 
+
+https://github.com/BastiaanE/US-unrest-
